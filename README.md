@@ -1,16 +1,16 @@
-### Hi there 👋
+### Hi there, I'm Guilherme Lucas 👋
 
-<!--
-**guilhermelucas-dev/guilhermelucas-dev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+#### About
+I'm a web developer. I'm studying web development at [Rocketseat](https://www.rocketseat.com.br/).
 
-Here are some ideas to get you started:
+#### Current stack
+- 📡 backend: `PHP`
+- 🖼️ frontend: `HTML5`, `CSS3`, `Javascript`
+- 🗃️ database: `MySQL`
+- 🎨 layout design: `Figma`
+- 📦 version code control: `Git e Github`
+- 🔧 Tools: `VsCode`
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### Contacts
+- ✉️ Email: guilhermedesouzalucas@gmail.com
+- 🧑‍💻 linkedin: https://www.linkedin.com/in/guilherme-lucas-63539a2a8/
